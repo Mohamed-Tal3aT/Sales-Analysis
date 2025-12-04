@@ -1,4 +1,4 @@
-# Sales-Analysis#
+# Sales_Analysis#
 Sales Analysis with NumPy
 
 ## الوصف
